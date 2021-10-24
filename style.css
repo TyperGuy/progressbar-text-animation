@@ -24,11 +24,16 @@ h1{margin-top: 20px;}
   font-weight: 900;
 }
 #progress-nar{
-  position: fixed;
-  top: 0;
-  z-index: 10;
+
   height: 20px;
   left: 0;
   width: 30%;
   background:linear-gradient(to right, #ee0979,#64f38c,#fff);
+}
+.topDiv{
+ top: 0;
+ z-index: 10;
+ position: fixed;
+ width: 100%;
+ background-color: #fff;
 }
