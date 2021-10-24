@@ -1,0 +1,1 @@
+var progressBar =  document.querySelector("#progress-nar");
