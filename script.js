@@ -1,2 +1,7 @@
-var mainSection = document.querySelector("#section");
-var progressBar =  document.querySelector("#progress-nar");
+const mainSection = document.querySelector("#section");
+const progressBar =  document.querySelector("#progress-nar");
+
+function movProgress (){
+  let scrollPosition = mainSection.getBoundingClientRect();
+  console.log(scrollPosition);
+}
