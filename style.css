@@ -16,3 +16,7 @@ section{
 p{text-align: justify; margin-top: 20px;}
 
 h1{margin-top: 20px;}
+
+.title{
+  font-size: 2rem;
+}
