@@ -1,0 +1,1 @@
+## Animated Text Progress Bar
