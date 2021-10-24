@@ -3,7 +3,7 @@ const progressBar =  document.querySelector("#progress-nar");
 
 function moveProgress (){
   let scrollPosition = mainSection.getBoundingClientRect();
-  console.log(scrollPosition);
+  console.log(-scrollPosition.y);
 }
 
-moveProgress();
+window.addEventListener("scroll",moveProgress)
