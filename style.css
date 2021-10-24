@@ -26,4 +26,7 @@ h1{margin-top: 20px;}
   top: 0;
   z-index: 10;
   height: 20px;
+  left: 0;
+  width: 30%;
+  background:linear-gradient(to right, #ee0979,#64f38c,#fff);
 }
