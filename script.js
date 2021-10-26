@@ -8,6 +8,8 @@ function moveProgress (){
   -document.documentElement.clientHeight))*100;
 
   progressBar.style.width = Math.floor(proWidth) + "%";
+
+  console.log(Math.floor(proWidth) + "%")
 }
 
 window.addEventListener("scroll",moveProgress)
