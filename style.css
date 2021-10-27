@@ -27,6 +27,7 @@ h1{margin-top: 20px; font-family: 'Amatic SC', cursive; font-weight: 700;}
 }
 #progress-nar{
 
+  width: 0;
   height: 20px;
   left: 0;
   background:linear-gradient(to right, #ee0979,#64f38c,#fff);
