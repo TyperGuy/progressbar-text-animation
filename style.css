@@ -34,7 +34,10 @@ h1{margin-top: 20px; font-family: 'Amatic SC', cursive; font-weight: 700;}
   display: flex;
   justify-content: flex-end;
   align-items: center;
+  color: #fff;
+  font-weight: bold;
 }
+
 .topDiv{
  top: 0;
  z-index: 10;
