@@ -27,7 +27,7 @@ h1{margin-top: 20px; font-family: 'Amatic SC', cursive; font-weight: 700;}
 }
 #progress-bar{
   width: 0;
-  height: .5rem;
+  height: 1rem;
   left: 0;
   background:linear-gradient(to right, #ee0979,#ff0426);
   transition: width ease .3s;
